@@ -6,6 +6,8 @@
 
 [Abra o guia e teste a rota reserva](https://inematds.github.io/ia-com-rota-reserva/guia/)
 
+🎬 [Vídeo em português](https://www.youtube.com/watch?v=R_Mf8iMYAQk)
+
 ## O que é
 
 IA com Rota Reserva é um guia com uma demonstração para quem quer experimentar ferramentas de IA com limites de uso. Ele mostra como o FreeLLMAPI tenta outro provedor, o serviço que recebe seu pedido e fornece o modelo, e onde entram Claude Desktop, Claude Code, Arena e v0. Você pode começar pela demonstração, que roda no navegador e usa respostas fictícias.

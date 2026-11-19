@@ -6,6 +6,8 @@
 
 [Open the guide and test the backup route](https://inematds.github.io/ia-com-rota-reserva/guia/en/)
 
+🎬 [Video in Portuguese](https://www.youtube.com/watch?v=R_Mf8iMYAQk)
+
 ## What it is
 
 IA com Rota Reserva is a guide with a demonstration for people who want to try AI tools with usage limits. It shows how FreeLLMAPI tries another provider—the service that receives your request and supplies the model—and where Claude Desktop, Claude Code, Arena, and v0 fit in. You can start with the demonstration, which runs in your browser and uses fictional responses.

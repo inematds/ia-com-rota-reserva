@@ -6,6 +6,8 @@
 
 [Abre la guía y prueba la ruta alternativa](https://inematds.github.io/ia-com-rota-reserva/guia/es/)
 
+🎬 [Video en portugués](https://www.youtube.com/watch?v=R_Mf8iMYAQk)
+
 ## Qué es
 
 IA con Ruta de Respaldo es una guía con una demostración para quienes quieren probar herramientas de IA con límites de uso. Muestra cómo FreeLLMAPI intenta usar otro proveedor, el servicio que recibe tu solicitud y proporciona el modelo, y dónde entran Claude Desktop, Claude Code, Arena y v0. Puedes empezar por la demostración, que se ejecuta en el navegador y usa respuestas ficticias.
